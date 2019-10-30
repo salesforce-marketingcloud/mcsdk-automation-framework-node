@@ -1,1 +1,1 @@
-# This project is under development
+# mcsdk-automation-framework-node
