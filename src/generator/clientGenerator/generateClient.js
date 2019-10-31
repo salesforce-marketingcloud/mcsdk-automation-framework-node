@@ -45,7 +45,7 @@ const path = require('path');
         fs.writeFileSync(folderPath, data);
     }
     function getGeneratedApiClassesNames(folderPath) {
-        apiClasses = [];
+        let apiClasses = [];
 
         fs.readdirSync(folderPath).forEach(fileName => {
             if (fileName.endsWith('Api.js') && fileName !== 'BaseApi.js') {
