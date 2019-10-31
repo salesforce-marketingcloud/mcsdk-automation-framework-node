@@ -24,7 +24,7 @@ before_install:
 install:
   - pip3 install -r requirements.txt
   - cd ${PWD}/../
-  - git clone https://sfadincescu:${GITHUB_TOKEN}@github.com/sfadincescu/mcsdk-automation-framework-core.git
+  - git clone https://salesforce-marketingcloud:${GITHUB_TOKEN}@github.com/salesforce-marketingcloud/mcsdk-automation-framework-core.git
   - cd mcsdk-automation-framework-core
   - sh scripts/checkout.sh
   - python3 setup.py sdist
