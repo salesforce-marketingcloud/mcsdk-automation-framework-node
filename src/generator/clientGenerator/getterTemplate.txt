@@ -1,0 +1,11 @@
+    get <<getterName>>() {
+                if(this._<<getterName>> === undefined){
+                    this._<<getterName>> = new SalesforceMarketingCloud.<<apiName>>(
+                    this.getAuthBaseUrl(),
+                    this.getClientId(),
+                    this.getClientSecret(),
+                    this.getAccountId(),
+                    this.getScope());
+                }
+                return this._<<getterName>>;
+            }

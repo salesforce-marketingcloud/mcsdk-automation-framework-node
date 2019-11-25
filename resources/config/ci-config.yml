@@ -1,0 +1,16 @@
+generators:
+  node_js: "clientGenerator"
+  script: "generateClient"
+
+repos:
+  current:
+    name: "mcsdk-automation-framework-node"
+  core:
+    name: "mcsdk-automation-framework-core"
+    owner: "salesforce-marketingcloud"
+    swagger_cli: "{%repos_core_dir%}/bin/swagger-codegen-cli.jar"
+    swagger_spec: "{%repos_core_dir%}/resources/sfmc-openapi-v2.json"
+  sdk:
+    name: "mcsdk-automation-node"
+    owner: "salesforce-marketingcloud"
+    apiFolderPath: "src/Api"
