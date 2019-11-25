@@ -20,8 +20,8 @@ This repo is part of the Salesforce Marketing Cloud SDK Automation Framework.
 
 ## Contact us
 
-- Request a [new feature](https://github.com/salesforce-marketingcloud/mcsdk-automation-framework-csharp/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc), add a question or report a bug on GitHub.
-- Vote for [Popular Feature Requests](https://github.com/salesforce-marketingcloud/mcsdk-automation-framework-csharp/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) by making relevant comments and add your reaction. Use a reaction in place of a "+1" comment:
+- Request a [new feature](https://github.com/salesforce-marketingcloud/mcsdk-automation-framework-node/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc), add a question or report a bug on GitHub.
+- Vote for [Popular Feature Requests](https://github.com/salesforce-marketingcloud/mcsdk-automation-framework-node/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) by making relevant comments and add your reaction. Use a reaction in place of a "+1" comment:
     - 👍 - upvote
     - 👎 - downvote
 
