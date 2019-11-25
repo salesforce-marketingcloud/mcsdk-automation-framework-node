@@ -1,5 +1,6 @@
 {
-    "projectName": "SalesforceMarketingCloud",
+    "projectName": "salesforce-marketing-cloud-sdk",
+    "moduleName": "SalesforceMarketingCloud",
     "useES6": true,
     "usePromises": true,
     "modelPackage": "Model",
