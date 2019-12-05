@@ -5,5 +5,5 @@
     "usePromises": true,
     "modelPackage": "Model",
     "apiPackage": "Api",
-    "projectVersion" : "1.0.0"
+    "projectVersion" : "1.1.0"
 }
